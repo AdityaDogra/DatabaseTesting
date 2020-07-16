@@ -1,0 +1,6 @@
+2020-07-16 03:34:46,292  INFO [main] BaseClass:28 - Connecting to DB
+2020-07-16 03:34:47,299  INFO [main] BaseClass:38 - Connected to DB
+2020-07-16 03:34:47,317  INFO [main] TestingDatabase:16 - Executing test
+2020-07-16 03:34:47,318  INFO [main] TestingDatabase:21 -  Executing query
+2020-07-16 03:34:47,394  INFO [main] TestingDatabase:23 - query Executed
+2020-07-16 03:34:47,399  INFO [main] BaseClass:48 - closing DB connection
